@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sasindub
+- 👋 Hi, I’m Sasindu Bandara. I'm a full-stack developer
 - 👀 I’m interested in web development, web testing, and windows development
 - 🌱 I’m currently learning new web development technologies
 - 💞️ I’m looking to collaborate on web developers, windows app developers, software engineers, and expertise of IT industry
